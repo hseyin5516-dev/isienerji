@@ -1,0 +1,38 @@
+{
+  "siteName": "Isı Enerji ®",
+  "title": "Isı Enerji ® | Yerden Isıtma ve Tesisat Sistemleri",
+  "description": "Yerden ısıtma sistemleri, sirkülasyon pompaları, hidraforlar, boylerler ve doğalgaz tesisat malzemeleri.",
+  "phone1": "0536 276 91 69",
+  "phone2": "0212 546 91 69",
+  "whatsappPhone": "905362769169",
+  "email": "isienerjisi@gmail.com",
+  "address": "İstanbul, Türkiye",
+  "workingHours": "Pazartesi - Cumartesi: 08:30 - 18:30",
+  "freeShippingThreshold": 2000,
+  "payment": {
+    "paytrEnabled": false,
+    "paytrMerchantId": "",
+    "paytrApiKey": "",
+    "paytrSecretKey": "",
+    "iyzicoEnabled": false,
+    "iyzicoApiKey": "",
+    "iyzicoSecretKey": "",
+    "iyzicoBaseUrl": "https://sandbox-api.iyzipay.com",
+    "havaleEnabled": true,
+    "whatsappEnabled": true
+  },
+  "bankAccounts": [
+    {
+      "bank": "Garanti BBVA",
+      "accountName": "Isı Enerji Mühendislik San. Tic. Ltd. Şti.",
+      "iban": "TR12 0006 2000 0001 2345 6789 01",
+      "branch": "İkitelli Şubesi"
+    },
+    {
+      "bank": "Ziraat Bankası",
+      "accountName": "Isı Enerji Mühendislik San. Tic. Ltd. Şti.",
+      "iban": "TR98 0001 0000 0001 2345 6789 02",
+      "branch": "Başakşehir Şubesi"
+    }
+  ]
+}

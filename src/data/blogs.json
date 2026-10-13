@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "slug": "yerden-isitma-dogalgaz-tuketimini-dusurur-mu",
+    "title": "Yerden Isıtma Doğalgaz Tüketimini Düşürür mü?",
+    "summary": "Yerden ısıtma sistemleri düşük su sıcaklığıyla çalışarak radyatörlere göre %15-30 arasında doğalgaz ve enerji tasarrufu sağlar.",
+    "content": "<p>Yerden ısıtma sistemleri, homojen ısı dağılımı sağlayarak yaşam alanlarının daha konforlu ve dengeli ısınmasını mümkün kılar. Düşük gidiş suyu sıcaklığı ile çalışması sayesinde kombi ve ısı pompalarında yoğuşma verimini artırır ve aylık faturalarda belirgin düşüş sağlar.</p>",
+    "image": "https://www.isienerji.com.tr/images/product/80768-562-rehau-rautherm-s-pe-xa-boru-17x2-mm-oksijen-bariyerli-500m-kangal.png",
+    "date": "10 Şubat 2026",
+    "author": "Isı Enerji Mühendislik",
+    "category": "Yerden Isıtma"
+  },
+  {
+    "id": "2",
+    "slug": "yerden-isitma-nasil-yapilir",
+    "title": "Yerden Isıtma Nasıl Yapılır?",
+    "summary": "Strafor döşemeden boru serme, kollektör montajı ve şap atımına kadar adım adım profesyonel yerden ısıtma uygulama rehberi.",
+    "content": "<p>Yerden ısıtma uygulaması zemin temizliği ile başlar. Kenar izolasyon bantları çekilir, dansiteli strafor paneller serilir ve oksijen bariyerli PE-Xa veya PE-RT borular modülasyon aralıklarına göre döşenir. Kollektör bağlantısı ve basınç testinin ardından şap katkılı harç dökülür.</p>",
+    "image": "https://www.isienerji.com.tr/images/product/80768-562-rehau-rautherm-s-pe-xa-boru-17x2-mm-oksijen-bariyerli-500m-kangal.png",
+    "date": "25 Ocak 2026",
+    "author": "Isı Enerji Mühendislik",
+    "category": "Rehber"
+  },
+  {
+    "id": "3",
+    "slug": "yerden-isitma-m2-fiyati-nasil-hesaplanir",
+    "title": "Yerden Isıtma m² Fiyatı Nasıl Hesaplanır?",
+    "summary": "Boru metrajı, strafor kalitesi, kollektör ağız sayısı ve kontrol otomasyonu gibi maliyet bileşenleri ile güncel m² hesaplaması.",
+    "content": "<p>Yerden ısıtma maliyeti hesaplanırken alanın büyüklüğü, tercih edilen marka (Rehau, Fraenkische, Vesbo, Kalde), kullanılan kollektör ağız sayısı, oda termostatları ve aktüatör vanalar hesaba katılır.</p>",
+    "image": "https://www.isienerji.com.tr/images/product/80768-562-rehau-rautherm-s-pe-xa-boru-17x2-mm-oksijen-bariyerli-500m-kangal.png",
+    "date": "15 Ocak 2026",
+    "author": "Isı Enerji Mühendislik",
+    "category": "Maliyet"
+  },
+  {
+    "id": "4",
+    "slug": "yerden-isitma-mi-radyator-mu-daha-ekonomik-ve-verimli",
+    "title": "Yerden Isıtma mı Radyatör mü Daha Ekonomik ve Verimli?",
+    "summary": "Konfor, toz sirkülasyonu, enerji verimliliği ve ilk yatırım maliyetleri açısından yerden ısıtma ile panel radyatör karşılaştırması.",
+    "content": "<p>Radyatörler havanın konveksiyonla hareket etmesine neden olurken, yerden ısıtma radyant ışıma ile zeminden tavana doğru dengeli bir sıcaklık dağılımı sağlar. Estetik açıdan duvarları serbest bırakırken işletme maliyetinde de tasarruf sunar.</p>",
+    "image": "https://www.isienerji.com.tr/images/product/80768-562-rehau-rautherm-s-pe-xa-boru-17x2-mm-oksijen-bariyerli-500m-kangal.png",
+    "date": "02 Ocak 2026",
+    "author": "Isı Enerji Mühendislik",
+    "category": "Karşılaştırma"
+  },
+  {
+    "id": "5",
+    "slug": "yerden-isitma-sistemi-nedir-nasil-calisir",
+    "title": "Yerden Isıtma Sistemi Nedir, Nasıl Çalışır?",
+    "summary": "Zeminin altına döşenen özel boruların içinden geçen ılık su ile mekanları ısıtan modern sistemlerin çalışma prensibi.",
+    "content": "<p>Yerden ısıtma sistemleri, ısıtıcı kaynaktan (kombi, ısı pompası, kazan) gelen suyun kollektör yardımıyla devrelere ayrılması ve zemin altındaki borularda dolaştırılması prensibiyle çalışır.</p>",
+    "image": "https://www.isienerji.com.tr/images/product/80768-562-rehau-rautherm-s-pe-xa-boru-17x2-mm-oksijen-bariyerli-500m-kangal.png",
+    "date": "20 Aralık 2025",
+    "author": "Isı Enerji Mühendislik",
+    "category": "Genel"
+  }
+]

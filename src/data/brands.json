@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Rehau",
+    "slug": "rehau"
+  },
+  {
+    "id": "2",
+    "name": "Isı Enerji",
+    "slug": "is-enerji"
+  },
+  {
+    "id": "3",
+    "name": "Hofmann",
+    "slug": "hofmann"
+  },
+  {
+    "id": "4",
+    "name": "Fraenkische",
+    "slug": "fraenkische"
+  },
+  {
+    "id": "5",
+    "name": "Vesbo",
+    "slug": "vesbo"
+  },
+  {
+    "id": "6",
+    "name": "Kalde",
+    "slug": "kalde"
+  },
+  {
+    "id": "7",
+    "name": "Kas",
+    "slug": "kas"
+  },
+  {
+    "id": "8",
+    "name": "Çetin",
+    "slug": "-etin"
+  },
+  {
+    "id": "9",
+    "name": "Wavin",
+    "slug": "wavin"
+  },
+  {
+    "id": "10",
+    "name": "Weber",
+    "slug": "weber"
+  }
+]
